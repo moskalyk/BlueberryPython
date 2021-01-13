@@ -42,7 +42,7 @@ bby_details.py - see information about your Blueberry
 
 List all available Blueberry units (make sure yours is on):
 ```
-python3 list_bbys.py
+python3 list_devices.py
 ```
 
 Now connect to the unit that you want stream from:
