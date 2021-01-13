@@ -6,7 +6,7 @@ Connect to Blueberry brain sensing pod from Linux, MacOS, RasbperryPi, and Windo
 
 You should have Python 3.6/3.7/3.8 installed and the corresponding pip package installed.
 
-Go ahead and `git clone` this repo (or your fork/copy of it): https://github.com/CaydenPierce/BlueberryGlassesServer. Move into the directory you just cloned (`cd BlueberryGlassesServer`).  
+Go ahead and `git clone` this repo (or your fork/copy of it): https://github.com/blueberryxtech/BlueberryPython. Move into the directory you just cloned (`cd BlueberryGlassesServer`).  
 
 Now we need to setup a virtual environment and install dependencies.   
 
